@@ -10,4 +10,5 @@ def int_to_roman(num):
             num-=values[i]
     return result
 print(int_to_roman(1994))
-print(int_to_roman(4))        
+print(int_to_roman(4)) 
+print(int_to_roman(6))       
